@@ -1,0 +1,2 @@
+# Optional: Kaggle API for scripts/download_kaggle_dataset.py
+kaggle>=1.6.0
